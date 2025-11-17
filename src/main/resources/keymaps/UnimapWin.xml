@@ -197,4 +197,7 @@
     <action id="copilot.cycleNextInlays">
         <keyboard-shortcut first-keystroke="alt close_bracket" />
     </action>
+    <action id="DirDiffMenu.EnableNotEqual">
+        <keyboard-shortcut first-keystroke="f9" />
+    </action>
 </keymap>
